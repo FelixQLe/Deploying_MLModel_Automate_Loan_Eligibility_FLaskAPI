@@ -29,6 +29,8 @@
 
 ## EDA 
     1. Applicants having a credit history more likely get approval
+![Screen Shot 2022-09-10 at 12 55 43 AM 2](https://user-images.githubusercontent.com/93171100/189472640-9e718536-4d19-4e48-a8fd-25d47fe8d91e.png) ![Screen Shot 2022-09-10 at 12 55 33 AM](https://user-images.githubusercontent.com/93171100/189472651-ceb2c558-63e2-4f89-ad7e-1ebadef527a9.png)
+
 
     2. Applicants with higher applicantincome and co-applicantincome has more more likely get approval
 
