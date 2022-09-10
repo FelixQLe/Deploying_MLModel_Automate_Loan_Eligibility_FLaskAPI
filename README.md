@@ -34,7 +34,11 @@
 
     3. Applicants graduated is likely not to be considered to Loan status decision
 
-    4. Semiurbun applicants has higher change to get approval, they are in high growth perspectives. Also,    rural applicants might spend less than Urban applicants.
+    4. Semiurbun applicants has higher change to get approval, they are in high growth perspectives. Also,rural applicants might spend less than Urban applicants.
+    
+    5. Self_employed status are likely not to be consider in loan decision
+    
+    6. Applicants have more dependants likely get refused to loan decision
 
 ## Process
     1. EDA & cleaning
