@@ -71,7 +71,7 @@
     6. Applicants have more dependants likely get refused to loan decision
 
 ## Results/Demo
-    - Model able to predict 76% accuracy
+    - Model able to predict 80% accuracy
 ![Screen Shot 2022-09-09 at 4 14 38 PM](https://user-images.githubusercontent.com/93171100/189472775-52254d56-ce7e-4f58-8383-0c95505238b2.png)
 
     - API: Using Flask to create rest api which able to take POST requests with param json data from clients, then send back the pre-approval credit decison.
