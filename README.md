@@ -58,10 +58,12 @@
     3. Applicants graduated is likely not to be considered to Loan status decision
 
     4. Semiurbun applicants has higher change to get approval, they are in high growth perspectives.
-    ![Screenshot 2023-01-11 at 11 09 21 PM](https://user-images.githubusercontent.com/93171100/211975664-dabf373d-46bd-4f2a-9bee-86f14d6f612d.png)
+ ![Screenshot 2023-01-11 at 11 09 21 PM](https://user-images.githubusercontent.com/93171100/211975664-dabf373d-46bd-4f2a-9bee-86f14d6f612d.png)
+
      - Rural and Urban are most similar approval and disapproval ratio
-     ![Screenshot 2023-01-11 at 11 09 01 PM](https://user-images.githubusercontent.com/93171100/211975800-48b920b5-34ac-4031-8212-322259a3f322.png)
-      ![Screenshot 2023-01-11 at 11 09 12 PM](https://user-images.githubusercontent.com/93171100/211975808-3dd4ff67-69c9-4fea-af45-cc4a1d1818af.png)
+     
+ ![Screenshot 2023-01-11 at 11 09 01 PM](https://user-images.githubusercontent.com/93171100/211975800-48b920b5-34ac-4031-8212-322259a3f322.png)
+ ![Screenshot 2023-01-11 at 11 09 12 PM](https://user-images.githubusercontent.com/93171100/211975808-3dd4ff67-69c9-4fea-af45-cc4a1d1818af.png)
 
     
     5. Self_employed status are likely not to be consider in loan decision
