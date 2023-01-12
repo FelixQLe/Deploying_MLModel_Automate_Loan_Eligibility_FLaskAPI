@@ -6,6 +6,24 @@
 
     Deploying a Model to automate the loan eligibility process based on customer details that are provided as online application forms are being filled. These details concern the customer's Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History.
 
+## STEPS
+
+    1. EDA & cleaning
+    - Initial cleaning includes fill nan values with mean, median, mode
+    - EDA includes grouping and visualization to test and determine the hypothesises
+    2. Feature Engineering
+    - numeric tranforming
+    - variable tranforming
+    - categories transforming
+    3. Modeling
+    - deploying Pipeline inlcudes numeric, variable, categories tranforming
+    - deploying PCA, KBest, prediction model
+    4. Deploying
+    - Flask on Local
+    - Flask on AWS
+    4. Testing
+    - Using Postpone send request
+
 ## Hypothesis
 #### Possible hypotheses
 
@@ -46,23 +64,6 @@
     5. Self_employed status are likely not to be consider in loan decision
     
     6. Applicants have more dependants likely get refused to loan decision
-
-## Process
-    1. EDA & cleaning
-    - Initial cleaning includes fill nan values with mean, median, mode
-    - EDA includes grouping and visualization to test and determine the hypothesises
-    2. Feature Engineering
-    - numeric tranforming
-    - variable tranforming
-    - categories transforming
-    3. Modeling
-    - deploying Pipeline inlcudes numeric, variable, categories tranforming
-    - deploying PCA, KBest, prediction model
-    4. Deploying
-    - Flask on Local
-    - Flask on AWS
-    4. Testing
-    - Using Postpone send request
 
 ## Results/Demo
     - Model able to predict 76% accuracy
